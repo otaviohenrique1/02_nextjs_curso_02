@@ -2,4 +2,4 @@
 
 ## Projeto feito no curso de Next.js: tour pelo Next.js da Alura
 
-## Parte que usa Static Site Generation
+## Parte que usa SSG (Static Site Generation)
